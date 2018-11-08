@@ -1,0 +1,8 @@
+	The Animation program displays a window with animated circles that try to
+move toward a white square. The circles follow the square as it moves on the
+screen, placed by clicking the mouse or dragged by holding the left mouse
+button.
+
+	To run the program
+java Animation [number]
+	You may optionally specify the number of circles to simulate (at least 1)
